@@ -1,0 +1,1030 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.shine-nav{
+    margin-left: 70% !important;
+}
+
+.shine-nav>li>a{
+    font-size: 20px;
+
+    color: black !important;
+    font-weight: 500;
+}
+
+.shine-nav>li>:hover{
+    color: #4175fc !important;
+}
+
+.sliderlabel{
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  padding-bottom: 1%;
+  font-weight: bold;
+  text-shadow: 2px 2px 2px black;
+}
+
+.labeldetails{
+  color: white;
+  font-size: 20px;
+  padding-bottom: 1%;
+  text-shadow: 2px 2px 2px black;
+}
+
+.btn1{
+  border: solid;
+  border-color: white;
+  height: 50px;
+  width: 150px;
+  background-color: transparent;
+  color: white;
+  border-radius: 10px;
+  margin-bottom: 15%;
+  text-shadow: 2px 2px 2px black;
+}
+
+.main0{
+  padding: 50px 80px 50px 80px;
+}
+
+.maindiv{
+  width: 100%;
+}
+
+.main1{
+  color: #4175fc;
+  font-weight: bold;
+  
+}
+
+.main1text{
+  font-size: 20px;
+  font-weight: 100;
+
+}
+
+
+.main2{
+  text-align: center;
+  padding-top: 200px;
+  background-color: #4175fc;
+  width: 33.33%;
+}
+
+.main3{
+  color: white;
+  font-size: 35px;
+}
+
+.main4{
+  border: none;
+  padding: 15px 25px 15px 25px;
+  border-radius: 10px;
+  color: #4175fc;
+  background-color: white;
+}
+
+.leftdiv{
+  padding: 80px 100px 80px 100px;
+
+}
+
+.rightdiv{
+  padding: 80px 100px 80px 100px;
+  background-color: #4175fc;
+}
+
+.head1{
+  font-size: 35px;
+  font-weight: bold;
+  color: #4175fc;
+}
+
+.head2{
+  color: #4175fc;
+}
+
+.head3{
+  text-align: center;
+  padding-top: 50%;
+  font-size: 35px;
+  color: white;
+}
+
+.buttonclass{
+  padding: 20px 30px 20px 30px;
+  color: #4175fc;
+  border: none;
+  border-radius: 10px;
+  margin-left: 80px;
+  
+}
+
+.aboutusbar{
+  background-color: #4175fc;
+  height: 20vh;
+}
+
+.abouttext{
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+  padding-top: 3%;
+  width: 100%;
+}
+
+.aboutussecond{
+  height: 10vh;
+  border: 2px solid black;
+  padding: 30px 40px 30px 40px;
+  display: flex;
+}
+
+.picdetails{
+  width: 40%;
+}
+
+.knowabout{
+  font-size: 20px;
+  color: black;
+  text-align: left;
+}
+
+.knowaboutdetails{
+  font-size: 18px;
+  color: black;
+  font-weight: 200;
+  text-align: justify;
+}
+
+.promise{
+  background-color: #f3f5f5;
+  height:65vh;
+  width: 100%;
+}
+
+.promisetext{
+  padding-top:30px;
+  padding-left: 40px;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 900;
+}
+
+.iconsdiv{
+  width: 80%;
+  margin: auto;
+  gap: 3%;
+  height:370px;
+}
+
+.icontext{
+  height: 100px;
+  font-size: 25px;
+  text-align: center;
+}
+
+.firsticon{
+  width: 300px;
+  height: 200px;
+  justify-content: center;
+  align-items: center;
+}
+.secondicon{
+  width: 300px;
+  height: 200px;
+}
+.thirdicon{
+  width: 300px;
+  height: 200px;
+}
+
+.promisedetails{
+  text-align: center;
+  font-size: 20px;
+  font-weight:lighter;
+}
+
+.firstdiv{
+  height: 50%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.seconddiv{
+  height: 40%;
+  width: 70%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.offerdiv{
+  width: 100%;
+  height: 50vh;
+  background-image: url('images/bg.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.contactoffer{
+  width: 80%;
+  height: 100px;
+  background-color:#4175fc;
+  margin: auto;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contacttextdiv{
+  width: 70%;
+}
+
+.contactbuttondiv{
+  width: 20%;
+}
+
+.contactusbutton2{
+  background-color: white;
+  color: #4175fc;
+  padding: 20px 20px;
+  margin: auto;
+  border-radius: 10px;
+}
+
+.ourcleaningexperts{
+  width: 80%;
+  height: 70vh;
+  margin: auto;
+  display: flex;
+}
+
+.oce1{
+  width: 50%;
+}
+
+.tickandtext{
+  height: 50vh;
+}
+
+.oce2{
+  width: 50%;
+}
+
+.zx{
+  height: 350px;
+  width: 450px;
+  margin-top: 80px;
+  border-radius: 10px;
+}
+
+.os{
+  text-align: center;
+  color: #4175fc;
+  font-size: 45px;
+}
+
+.osimg{
+  border-radius: 10px;
+  width: 100%;
+  height: 200px;
+
+}
+
+.osh3
+{
+  text-align: center;
+  color: #4175fc;
+  padding-top: 15px;
+
+}
+
+.osul>li{
+  font-size: 16px;
+  list-style-type: none;
+
+}
+
+.osul{
+  padding-left: 20%;
+}
+
+.osbtn{
+  margin-top: 25px;
+  width: fit-content;
+  padding: 20px 40px 20px 40px;
+  border-radius: 10px;
+  background-color: #4175fc;
+  color: white;
+  border: none;
+}
+
+.servicesdiv{
+  display: flex;
+  flex-direction: column;
+  gap: -50px;
+}
+
+
+.osbtn:hover{
+  background-color: #1e3d8b;
+}
+
+.servicesbar{
+  background-color: #4175fc;
+  height: 40vh; 
+}
+
+.servicestext{
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+  padding-top: 3%;
+  width: 100%;
+}
+
+.servicesdetails{
+  color: white;
+  font-size: 20px;
+  width: 70%;
+  margin: auto;
+  text-align: justify;
+}
+
+.clh{
+  color:#4175fc;
+  font-size: 45px;
+  text-align: center;
+}
+
+.fnch{
+  color:#4175fc;
+  font-size: 45px;
+  text-align: center;
+}
+
+.mh{
+  color:#4175fc;
+  font-size: 45px;
+  text-align: center;
+}
+
+.imgtextdiv{
+  height: 60vh;
+  width: 400px;
+  border-radius: 10px;
+}
+
+.serviceimages{
+  width: 100%;
+  height: 50%;
+  border-radius: 10px;
+}
+
+.imghead{
+  color: #4175fc;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.imgdetails{
+  font-size: 17px;
+}
+
+.booknow{
+  width: 100%;
+  background-color: #4175fc;
+  height: 20vh;
+}
+
+.contactusbooknow{
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-size: 35px;
+  padding-top: 20px;
+}
+
+.booknowbtn{
+  background-color: white;
+  color: #4175fc;
+  border-radius: 10px;
+  margin-left: 45%;
+  width: 150px;
+  height: 50px;
+  margin-top: 15px;
+}
+
+
+.wcu{
+
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.wcudet{
+  text-align: justify;
+  padding-right: 40px;
+  padding-top: 20px;
+  font-size: 20px;
+  word-spacing: 8px;
+}
+
+.wcul{
+  margin-top: 80px;
+  background-color: #fff;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+  line-height: 50px;
+  border-radius: 7px;
+  margin-bottom: 80px;
+}
+
+.wcul>li{
+  list-style: none;
+  font-size: 20px;
+}
+
+.wcuimg{
+  background-image: url('images/wcu.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  width: 100%;
+}
+
+.contactusbar{
+  background-color: #4175fc;
+  height: 30vh;
+}
+
+.contactustext{
+  color: white;
+  font-size: 55px;
+  font-weight: bold;
+  padding-top: 80px;
+  padding-left: 120px;
+  margin-left: 120px;
+}
+
+.ourserdiv{
+  width: 100%;
+}
+
+.formandserv{
+  height: 100vh;
+  width: 100%;
+}
+
+.bknow{
+  font-size: 50px;
+  padding-top: 80px;
+
+}
+
+.bknowdet{
+  font-size: 20px;
+}
+
+input{
+  width: 100%;
+  height: 50px;
+}
+
+select{
+  width: 100%;
+  height: 50px;
+}
+
+.form-btn{
+  width: 100%;
+  height: 70px;
+  background-color: #4175fc;
+}
+
+.clock{
+  width: 80%;
+  margin: auto;
+  height: 40vh;
+  border-radius: 10px;
+  box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, .1);
+}
+
+.visa{
+  width: 80%;
+  margin: auto;
+  height: 40vh;
+  border-radius: 10px;
+  box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, .1);
+}
+
+.chat{
+  width: 80%;
+  margin: auto;
+  height: 47vh;
+  border-radius: 10px;
+  box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, .1);
+}
+
+.centerdiv{
+  width: 100%;
+  height: 40vh;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.threeicons{
+  width: 100%;
+  height: 50px;
+}
+
+.centext{
+  text-align: center;
+  color: black;
+  font-size: 30px;
+  padding-top: 20px;
+}
+
+.cendet{
+  text-align: center;
+}
+
+.callusandbtn{
+  width: 100%;
+  height:30vh;
+}
+
+.callustxt{
+  text-align: center;
+  font-size: 55px;
+  font-weight: bold;
+}
+
+.numberbtn{
+  padding: 20px 30px 20px 30px;
+  background-color: #4175fc;
+  color: white;
+  border-radius: 10px;
+  margin-left: 44%;
+  margin-top: 20px;
+}
+
+.footer{
+  height: 40vh;
+  width: 100%;
+}
+
+.cardcarouseldiv{
+  width: 100%;
+  height: 70vh;
+}
+
+.ourproj{
+  font-size: 55px;
+  font-weight: bold;
+  text-align: center;
+  color: #4175fc;
+  padding-top: 70px;
+}
+
+.cardsautoplaydiv{
+  width: 70%;
+  margin: auto;
+  height: 50vh;
+}
+
+.owl-item {width: 70px; margin-right: 10px;height:350px; border-radius:15px; }
+
+.certificates{
+  background-color: #d3e0e4;
+  width: 100%;
+  height: 70vh;
+}
+
+.certxt{
+  color: #4175fc;
+  font-size: 50px;
+  font-weight: bold;
+  padding-top: 40px;
+  padding-left: 180px;
+}
+
+.certdiv{
+  width: 80%;
+  margin: auto;
+  height: 50vh;
+  display: flex;
+  gap: 80px;
+  justify-content:center;
+  align-items: center;
+}
+
+.certimg{
+  width: 100%;
+  height: 300px;
+}
+
+.certsubtxt{
+  font-size: 22px;
+  font-weight: 100;
+  color: #4175fc;
+  padding-top: 20px;
+}
+
+.slide-track{
+  width: 100%;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.ourclients{
+  width: 20%;
+  height: 300px;
+}
+
+.imgclient{
+  width: 100%;
+  height: 300px;
+}
+
+.textandbtn{
+  width: 100%;
+  background-color: #4175fc;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+
+.map{
+  width: 100%;
+}
+
+.map>iframe{
+  width: 100%;
+}
+
+ul>li>a{
+  text-decoration: none;
+  color: black;
+}
+
+@media only screen and (max-width:450px){
+  .row .maindiv{
+    flex-direction: column;
+    height: fit-content;
+  }
+
+  .col-md-8 .main0{
+    flex-direction: column;
+    width:100%;
+  }
+
+  .main2{
+    height: fit-content;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 100px;
+  }
+
+  .ourserdiv{
+    flex-direction: column;
+    height: fit-content;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+  }
+
+  .wcuimg{
+    flex-direction: column;
+    width: 100%;
+    height: fit-content;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .wcu{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .wcu>h1{
+    width: 100%;
+    text-align: center;
+  }
+
+  .wcudet{
+    text-align: center;
+    margin-left: 40px;
+  }
+
+  button{
+    text-align: center;
+  }
+
+  .wcul{
+    width: 100%;
+    margin-left: 12px;
+  }
+
+  .col-md-4{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: fit-content;
+    width: 100%;
+  }
+
+  .cardcarouseldiv{
+    flex-direction: column;
+    height: fit-content;
+    display: none;
+  }
+
+  .owlstage{
+    width: 100%;
+    flex-direction: column;
+    height: fit-content;
+  }
+
+  .certificates{
+    flex-direction: column;
+    height: fit-content;
+  }
+
+  .certxt{
+    width: 100%;
+    text-align: center;
+    padding-left: 0;
+  }
+
+  .certdiv{
+    flex-direction: column;
+    width: 100%;
+    height: fit-content;
+  }
+
+  .autoplayslidermain{
+    flex-direction: column;
+    height: fit-content;
+    width: 100%;
+  }
+
+  .slide-track{
+    flex-direction: column;
+    height: fit-content;
+  }
+
+  .ourclients{
+    width: 100%;
+  }
+
+  .textandbtn{
+    width: 100%;
+    flex-direction: column;
+    height: fit-content;
+    padding: 20px;
+  }
+
+  .textandbtn>p{
+    text-align: center;
+  }
+
+  .textandbtn>button{
+    text-align: center;
+  }
+
+  .map{
+    flex-direction: column;
+    height: fit-content;
+  }
+
+  .map>iframe{
+    width: 100%;
+  }
+
+  footer{
+    flex-direction: column;
+    height: fit-content;
+  }
+
+  footer>div{
+    width: 100%;
+  }
+
+  .booknow{
+    width: 100%;
+    flex-direction: column;
+    height: fit-content;
+    padding: 20px;
+  }
+
+  .booknow>h2{
+    width: 100%;
+    text-align: center;
+  }
+
+  .booknow>button{
+    text-align: center;
+    margin-left: 120px;
+    margin-top: 20px;
+
+  }
+
+  .servicesbar{
+    flex-direction: column;
+    height: fit-content;
+  }
+
+  .servicestext{
+    text-align: center;
+    height: fit-content;
+  }
+
+  .servicesdetails{
+    text-align: center;
+    height: fit-content;
+  }
+
+  .abouttext{
+    flex-direction: column;
+    height: fit-content;
+  }
+
+  .pic,.picdetails,.knowaboutdetails{
+    width: 100%;
+    height: fit-content;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .knowabout{
+    text-align: center;
+  }
+
+  .pic>img{
+    text-align: center;
+  }
+
+  .promise{
+    flex-direction: column;
+    height: fit-content;
+  }
+
+  .promisetext{
+    text-align: center;
+    padding-left: 0px;
+  }
+
+  .promisedetails{
+    width: 100%;
+  }
+
+  .firsticon{
+    width: 100%;
+    height: fit-content;
+    flex-direction: column;
+  }
+
+  .secondicon{
+    width: 100%;
+    height: fit-content;
+    flex-direction: column;
+  }
+
+  .thirdicon{
+    width: 100%;
+    height: fit-content;
+    flex-direction: column;
+  }
+
+  .firstdiv{
+    flex-direction: column;
+    height: fit-content;
+  }
+
+  .seconddiv{
+    flex-direction: column;
+    height: fit-content;
+  }
+
+  .iconsdiv{
+    flex-direction: column;
+    height: fit-content;
+  }
+
+  .offerdiv{
+    width: 100%;
+    flex-direction: column;
+    height: fit-content;
+  }
+
+  .contactoffer{
+    width: 100%;
+    height: fit-content;
+    flex-direction: column;
+  }
+
+  .contacttextdiv{
+    width: 100%;
+  }
+
+  .contacttextdiv>h3{
+    text-align: center;
+  }
+
+  .contactbuttondiv{
+    width: 100%;
+    padding: 20px;
+  }
+
+  .contactusbutton2{
+    margin-left: 140px;
+  }
+
+  .ourcleaningexperts{
+    flex-direction: column;
+    height: fit-content;
+  }
+
+  .oce1{
+    width: 100%;
+  }
+
+  .rightzx{
+    width: 100%;
+  }
+
+  .zx{
+    width: 100%;
+  }
+
+  .contactusbar{
+    text-align: center;
+  }
+
+  .contactustext{
+    text-align: center;
+    padding-left: 0;
+    margin-left: 0;
+  }
+
+  .formandserv{
+    height: fit-content;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .bknow{
+    text-align: center;
+  }
+
+  .bknowdet{
+    text-align: center;
+  }
+
+  .numberbtn{
+    margin-left: 29%;
+  }
+
+  .col-md-5{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 28px;
+  }
+
+  .col-md-3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 28px;
+  }
+}
+
+
